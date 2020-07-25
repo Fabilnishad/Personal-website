@@ -1,0 +1,13 @@
+.home{
+    min-height: 500px;
+}
+body{
+    margin: 0;
+}
+#text-center {
+    text-align: center;
+    padding-top: 12em;
+  }
+#mouse:hover{
+    background: rgb(142, 153, 150);
+}
